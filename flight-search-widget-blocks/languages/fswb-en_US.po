@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flight Search Widget Blocks\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flight-search-"
+"widget-blocks\n"
+"POT-Creation-Date: 2019-01-07T13:06:40+00:00\n"
+"PO-Revision-Date: 2019-01-07 16:16+0300\n"
+"Last-Translator: Egot Milyukov\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2\n"
+"X-Loco-Source-Locale: en\n"
+"X-Loco-Project-Id: 60372\n"
+"X-Loco-Api-Version: 1.0.21 20181229-1\n"
+
+#. Plugin Name of the plugin
+#: include/fswb-admin.php:20 include/fswb-categories.php:15
+#: flight-search-widget-blocks.php:24
+msgid "Flight Search Widget Blocks"
+msgstr "Flight Search Widget Blocks"
+
+#. Plugin URI of the plugin
+msgid "http://swb.milukove.ru/"
+msgstr "http://swb.milukove.ru/"
+
+#. Description of the plugin
+msgid "Plugin adds Skyscanner widgets as gutenberg editor blocks."
+msgstr "Plugin adds Skyscanner widgets as gutenberg editor blocks."
+
+#. Author of the plugin
+#: flight-search-widget-blocks.php:27
+msgid "Egor Milyukov"
+msgstr "Egor Milyukov"
+
+#. Author URI of the plugin
+msgid "http://milukove.ru/"
+msgstr "http://milukove.ru/"
+
+#: include/fswb-admin.php:25
+msgid "General settings"
+msgstr "General settings"
+
+#: include/fswb-admin.php:29
+msgid "Associate ID"
+msgstr "Associate ID"
+
+#: include/fswb-admin.php:29
+msgid ""
+"If you have a direct partnership with Skyscanner paste your associate ID "
+"here to ensure your exits are tracked. "
+msgstr ""
+"If you have a direct partnership with Skyscanner paste your associate ID "
+"here to ensure your exits are tracked. "
+
+#: include/fswb-admin.php:32
+msgid ""
+"If you do not know your associate ID, you can obtain it from your account "
+"manager."
+msgstr ""
+"If you do not know your associate ID, you can obtain it from your account "
+"manager."
+
+#: include/fswb-admin.php:38
+msgid "WhiteLabel domain"
+msgstr "WhiteLabel domain"
+
+#: include/fswb-admin.php:38
+msgid ""
+"Widgets have been designed to work with White Labels from the start, and "
+"include features such as automatic styling to make your life easier."
+msgstr ""
+"Widgets have been designed to work with White Labels from the start, and "
+"include features such as automatic styling to make your life easier."
+
+#: include/fswb-admin.php:44
+msgid "Set widget language."
+msgstr "Set widget language."
+
+#: include/fswb-admin.php:44
+msgid ""
+"This language will be used on skyscannner or whitelabel site when user "
+"redirected to it by one of your widgets"
+msgstr ""
+"This language will be used on skyscannner or whitelabel site when user "
+"redirected to it by one of your widgets"
+
+#: include/fswb-admin.php:100
+msgid "Widget Blocks"
+msgstr "Widget Blocks"
+
+#: include/fswb-admin.php:106
+msgid "Basic Widget Block"
+msgstr "Basic Widget Block"
+
+#: include/fswb-admin.php:107
+msgid ""
+"Basic Widget provide a clean and simple tracked referral to the flight "
+"search on Skyscanner or a White Label."
+msgstr ""
+"Basic Widget provide a clean and simple tracked referral to the flight "
+"search on Skyscanner or a White Label."
+
+#: include/fswb-admin.php:114
+msgid "Location Widget Block"
+msgstr "Location Widget Block"
+
+#: include/fswb-admin.php:115
+msgid ""
+"Location Widgets provide a clean and simple tracked referral to the flight "
+"search on Skyscanner or a White Label."
+msgstr ""
+"Location Widgets provide a clean and simple tracked referral to the flight "
+"search on Skyscanner or a White Label."
+
+#: include/fswb-admin.php:122
+msgid "Simple Flight Search Widget"
+msgstr "Simple Flight Search Widget"
+
+#: include/fswb-admin.php:123
+msgid ""
+"Simple Flight Search Widget gives you everything your users need to start a "
+"search for flights on your site."
+msgstr ""
+"Simple Flight Search Widget gives you everything your users need to start a "
+"search for flights on your site."
+
+#: include/fswb-admin.php:131 include/fswb-admin.php:189
+msgid ""
+"<a href=\"%s\"><strong>Get Premium</strong></a> to enable Flight Search "
+"Widget and Insider Tips Widget"
+msgstr ""
+"<a href=\"%s\"><strong>Get Premium</strong></a> to enable Flight Search "
+"Widget and Insider Tips Widget"
+
+#: include/fswb-admin.php:144
+msgid "Flight Search Widget"
+msgstr "Flight Search Widget"
+
+#: include/fswb-admin.php:144 include/fswb-admin.php:152
+msgid "Premium"
+msgstr "Premium"
+
+#: include/fswb-admin.php:145
+msgid ""
+"Flight Search Widget is similar to the Simple Flight Search Widget, but it "
+"provides a comprehensive control of flight search on your site."
+msgstr ""
+"Flight Search Widget is similar to the Simple Flight Search Widget, but it "
+"provides a comprehensive control of flight search on your site."
+
+#: include/fswb-admin.php:152
+msgid "Insider Tips Widget"
+msgstr "Insider Tips Widget"
+
+#: include/fswb-admin.php:153
+msgid ""
+"Insider Tips Widgets are designed to provide users with helpful statistical "
+"information about flights, like the cheapest month to fly and indicative "
+"pricing for a specified route."
+msgstr ""
+"Insider Tips Widgets are designed to provide users with helpful statistical "
+"information about flights, like the cheapest month to fly and indicative "
+"pricing for a specified route."
+
+#: include/fswb-admin.php:166
+msgid "About"
+msgstr "About"
+
+#: include/fswb-admin.php:169
+msgid "Plugin name: %s"
+msgstr "Plugin name: %s"
+
+#: include/fswb-admin.php:171
+msgid "Plugin author: %s"
+msgstr "Plugin author: %s"
+
+#: include/fswb-admin.php:173
+msgid "Plugin version: %s"
+msgstr "Plugin version: %s"
+
+#: include/fswb-admin.php:182
+msgid "Description"
+msgstr "Description"
+
+#: include/fswb-admin.php:182
+msgid ""
+"Flight Search Widget Blocks is the easiest way to start earning money with "
+"SkyScanner affiliate program. Plugin adds Skyscanner widgets as gutenberg "
+"editor customizable blocks."
+msgstr ""
+"Flight Search Widget Blocks is the easiest way to start earning money with "
+"SkyScanner affiliate program. Plugin adds Skyscanner widgets as gutenberg "
+"editor customizable blocks."
+
+#: include/fswb-admin.php:182
+msgid ""
+"Adding a widget to your site takes just a few clicks. Set some options on "
+"the plugin settings page. Then go to your post edit page and pick up one of "
+"SkyScanner Widgets from Flight Search Widgets section."
+msgstr ""
+"Adding a widget to your site takes just a few clicks. Set some options on "
+"the plugin settings page. Then go to your post edit page and pick up one of "
+"SkyScanner Widgets from Flight Search Widgets section."
+
+#: include/fswb-admin.php:182
+msgid ""
+"Thats it, the widget is ready to go. You can change some styles and set "
+"another custom parameters or just use it as is. Plugin will work fine both "
+"ways."
+msgstr ""
+"Thats it, the widget is ready to go. You can change some styles and set "
+"another custom parameters or just use it as is. Plugin will work fine both "
+"ways."
+
+#: include/fswb-admin.php:197
+msgid "<a href=\"%s\">Full plugin documentation</a>"
+msgstr "<a href=\"%s\">Full plugin documentation</a>"
+
+#: include/fswb-admin.php:202
+msgid ""
+"If you like our plugin and you find it useful, please, help us spread a word "
+"about it — <a href=\"%s\">leave a review</a>"
+msgstr ""
+"If you like our plugin and you find it useful, please, help us spread a word "
+"about it — <a href=\"%s\">leave a review</a>"
+
+#: flight-search-widget-blocks.php:26
+msgid "Plugin adds Skyscanner widgets as gutenberg editor blocks"
+msgstr "Plugin adds Skyscanner widgets as gutenberg editor blocks"
+
+#: assets/js/blocks/fswb-location-widget.js:57
+#: assets/js/blocks/fswb-location-widget.js:305
+#: assets/js/blocks/min/fswb-location-widget.js:1
+#: assets/js/blocks/min/fswb-location-widget.js:3
+msgid "SkyScanner Location Widget"
+msgstr "SkyScanner Location Widget"
+
+#: assets/js/blocks/fswb-location-widget.js:153
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:161
+#: assets/js/blocks/fswb-basic-widget.js:149
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:161
+#: assets/js/blocks/min/fswb-location-widget.js:2
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-basic-widget.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+msgid "Button Label"
+msgstr "Button Label"
+
+#: assets/js/blocks/fswb-location-widget.js:158
+#: assets/js/blocks/min/fswb-location-widget.js:2
+msgid ""
+"Use {location} to insert Location into button text. E.g.: \"Let's go to "
+"{location} right now!\""
+msgstr ""
+"Use {location} to insert Location into button text. E.g.: \"Let's go to "
+"{location} right now!\""
+
+#: assets/js/blocks/fswb-location-widget.js:168
+#: assets/js/blocks/min/fswb-location-widget.js:2
+msgid "Location name in single quotes"
+msgstr "Location name in single quotes"
+
+#: assets/js/blocks/fswb-location-widget.js:182
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:175
+#: assets/js/blocks/fswb-basic-widget.js:163
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:175
+#: assets/js/blocks/min/fswb-location-widget.js:2
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-basic-widget.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+msgid "Show arrow icon insted of a plane"
+msgstr "Show arrow icon insted of a plane"
+
+#: assets/js/blocks/fswb-location-widget.js:193
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:186
+#: assets/js/blocks/fswb-basic-widget.js:174
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:186
+#: assets/js/blocks/min/fswb-location-widget.js:2
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-basic-widget.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+msgid "Open in new tab"
+msgstr "Open in new tab"
+
+#: assets/js/blocks/fswb-location-widget.js:203
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:207
+#: assets/js/blocks/fswb-basic-widget.js:184
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:207
+#: assets/js/blocks/min/fswb-location-widget.js:2
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-basic-widget.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:209
+msgid "Widget colors"
+msgstr "Widget colors"
+
+#: assets/js/blocks/fswb-location-widget.js:211
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:215
+#: assets/js/blocks/fswb-basic-widget.js:192
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:215
+#: assets/js/blocks/min/fswb-location-widget.js:2
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-basic-widget.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+msgid "Background color"
+msgstr "Background color"
+
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:57
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:1
+msgid "SkyScanner Flight Search Widget"
+msgstr "SkyScanner Flight Search Widget"
+
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:196
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:196
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+msgid "Enable Placeholders"
+msgstr "Enable Placeholders"
+
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:201
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:201
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+msgid "Show placeholders inside input tags instead of label tags"
+msgstr "Show placeholders inside input tags instead of label tags"
+
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:222
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:222
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+msgid "Font color"
+msgstr "Font color"
+
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:229
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:229
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+msgid "Button background color"
+msgstr "Button background color"
+
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:236
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:236
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:2
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:2
+msgid "Button font color"
+msgstr "Button font color"
+
+#: assets/js/blocks/fswb-flight-search-widget__premium_only.js:339
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:57
+#: assets/js/blocks/fswb-simple-flight-search-widget.js:339
+#: assets/js/blocks/min/fswb-flight-search-widget__premium_only.js:3
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:1
+#: assets/js/blocks/min/fswb-simple-flight-search-widget.js:3
+msgid "SkyScanner Simple Flight Search Widget"
+msgstr "SkyScanner Simple Flight Search Widget"
+
+#: assets/js/blocks/fswb-basic-widget.js:57
+#: assets/js/blocks/fswb-basic-widget.js:283
+#: assets/js/blocks/min/fswb-basic-widget.js:1
+#: assets/js/blocks/min/fswb-basic-widget.js:3
+msgid "SkyScanner Basic Widget"
+msgstr "SkyScanner Basic Widget"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:1
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:3
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:57
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:349
+msgid "SkyScanner Insider Tips Widget"
+msgstr "SkyScanner Insider Tips Widget"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:163
+msgid ""
+"Insider Tips Widget requires presetting both Origin and Destination locations"
+msgstr ""
+"Insider Tips Widget requires presetting both Origin and Destination locations"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:168
+msgid "Origin name"
+msgstr "Origin name"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:173
+msgid "Free text (Location name in single quotes)"
+msgstr "Free text (Location name in single quotes)"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:179
+msgid "Destination name"
+msgstr "Destination name"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:184
+msgid "Free text (Destination name in single quotes)"
+msgstr "Free text (Destination name in single quotes)"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:190
+msgid "Defines a type of displayed statistics"
+msgstr "Defines a type of displayed statistics"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:195
+msgid "The widget's design completely depends on this attribute"
+msgstr "The widget's design completely depends on this attribute"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:217
+msgid "Text color of the heading banner"
+msgstr "Text color of the heading banner"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:224
+msgid "Color for the chart line/bars"
+msgstr "Color for the chart line/bars"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:231
+msgid "Color for the chart minimum/maximum data point"
+msgstr "Color for the chart minimum/maximum data point"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:238
+msgid "Background color of the search button"
+msgstr "Background color of the search button"
+
+#: assets/js/blocks/min/fswb-insider-tips-widget__premium_only.js:2
+#: assets/js/blocks/fswb-insider-tips-widget__premium_only.js:245
+msgid "Font color of the search button"
+msgstr "Font color of the search button"
+
+#~ msgid "http://fswb.milukove.ru/"
+#~ msgstr "http://fswb.milukove.ru/"
+
+#~ msgid "<a href=\""
+#~ msgstr "<a href=\""
