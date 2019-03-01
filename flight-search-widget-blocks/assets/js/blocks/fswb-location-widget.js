@@ -260,7 +260,7 @@
 									 old.parentNode.removeChild(old);
 								 }
 								 var script = document.createElement("script");
-								 script.src = "//widgets.skyscanner.net/widget-server/js/loader.js";
+								 script.src = "https://widgets.skyscanner.net/widget-server/js/loader.js";
 								 script.async = true;
 								 script.id = 'fswb-skyscanner-loader-script';
 								 document.body.appendChild(script);

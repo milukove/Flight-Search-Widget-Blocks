@@ -3,8 +3,8 @@ Contributors: milukove
 Donate link: https://money.yandex.ru/to/410011017976988
 Tags: gutenberg, widget, skyscanner, flight, search
 Requires at least: 5.0.0
-Tested up to: 5.0.2
-Stable tag: 1.0.0
+Tested up to: 5.1
+Stable tag: 1.0.2
 Requires PHP: 5.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -14,6 +14,8 @@ WordPress Gutenberg Block Plugin — Flight Search Widget Blocks is the easiest 
 == Description ==
 
 WordPress Gutenberg Block Plugin — Flight Search Widget Blocks is the easiest way to start earning money with SkyScanner affiliate program. Plugin adds Skyscanner widgets as gutenberg editor customizable blocks.
+
+**[Widgets DEMO](http://swb.milukove.ru/demo/)**
 
 Adding a widget to your site takes just a few clicks. Set some options on the plugin settings page. Then go to your post edit page and pick up one of SkyScanner Widgets from Flight Search Widgets section.
 
@@ -50,6 +52,16 @@ For now — yes. We are planning to add more widgets, from different flight sear
 4. Available widgets
 
 == Changelog ==
+
+= 1.0.2 =
+
+* Security fix
+
+= 1.0.1 =
+ 
+ * Fix bug with registering custom category
+ * Fix bug with enuqeueing skyscanner loader
+ * Add some translation strings
 
 = 1.0 =
  First Release

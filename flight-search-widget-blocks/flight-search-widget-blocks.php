@@ -3,13 +3,15 @@
  * Plugin Name: Flight Search Widget Blocks
  * Plugin URI: http://swb.milukove.ru/
  * Description: Plugin adds Skyscanner widgets as gutenberg editor blocks.
- * Version: 1.0.0
+ * Version: 1.0.2
  * Author: Egor Milyukov
  * Author URI: http://milukove.ru/
  * License:      GPL2
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: fswb
  * Domain Path: /languages
+ * 
+ * @fs_ignore /titan-framework/
  */
 
 /**
@@ -23,7 +25,7 @@ add_action( 'plugins_loaded', function () {
 } );
 
 define('FSWB_PLUGIN_NAME', __( 'Flight Search Widget Blocks', 'fswb' ) );
-define('FSWB_PLUGIN_VERSION', '1.0.0');
+define('FSWB_PLUGIN_VERSION', '1.0.2');
 define('FSWB_PLUGIN_DESCRIPTION', __( 'Plugin adds Skyscanner widgets as gutenberg editor blocks', 'fswb' ) );
 define('FSWB_PLUGIN_AUTHOR', __( 'Egor Milyukov', 'fswb' ) );
 

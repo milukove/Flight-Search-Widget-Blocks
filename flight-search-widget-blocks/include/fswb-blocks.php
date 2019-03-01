@@ -152,7 +152,7 @@ function fswb_enqueue() {
 	 */
 	wp_enqueue_script(
 			'fswb-skyscanner-loader',
-			'//widgets.skyscanner.net/widget-server/js/loader.js',
+			'https://widgets.skyscanner.net/widget-server/js/loader.js',
 			array(),
 			false,
 			true
@@ -185,4 +185,20 @@ function fswb_enqueue() {
  * Fires blocks
  * @since 1.0.0
  */
-add_action( 'enqueue_block_assets', 'fswb_enqueue' );
+add_action( 'enqueue_block_editor_assets', 'fswb_enqueue' );
+
+/**
+ * Enqueue skyscanner loader script
+ * @since 1.0.1
+ */
+function fswb_enqueue_sky_loader(){
+	wp_enqueue_script(
+			'fswb-skyscanner-loader',
+			'https://widgets.skyscanner.net/widget-server/js/loader.js',
+			array(),
+			false,
+			true
+		);
+}
+
+add_action( 'enqueue_block_assets', 'fswb_enqueue_sky_loader' );

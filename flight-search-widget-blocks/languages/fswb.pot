@@ -2,14 +2,14 @@
 # This file is distributed under the same license as the Flight Search Widget Blocks plugin.
 msgid ""
 msgstr ""
-"Project-Id-Version: Flight Search Widget Blocks 1.0.0\n"
+"Project-Id-Version: Flight Search Widget Blocks 1.0.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flight-search-widget-blocks\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-01-07T13:06:40+00:00\n"
+"POT-Creation-Date: 2019-02-23T01:38:01+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.1.0\n"
 "X-Domain: fswb\n"
@@ -17,7 +17,7 @@ msgstr ""
 #. Plugin Name of the plugin
 #: include/fswb-admin.php:20
 #: include/fswb-categories.php:15
-#: flight-search-widget-blocks.php:24
+#: flight-search-widget-blocks.php:25
 msgid "Flight Search Widget Blocks"
 msgstr ""
 
@@ -30,7 +30,7 @@ msgid "Plugin adds Skyscanner widgets as gutenberg editor blocks."
 msgstr ""
 
 #. Author of the plugin
-#: flight-search-widget-blocks.php:27
+#: flight-search-widget-blocks.php:28
 msgid "Egor Milyukov"
 msgstr ""
 
@@ -164,7 +164,7 @@ msgstr ""
 msgid "If you like our plugin and you find it useful, please, help us spread a word about it — <a href=\"%s\">leave a review</a>"
 msgstr ""
 
-#: flight-search-widget-blocks.php:26
+#: flight-search-widget-blocks.php:27
 msgid "Plugin adds Skyscanner widgets as gutenberg editor blocks"
 msgstr ""
 
